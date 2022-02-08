@@ -64,7 +64,7 @@
 	          <manifest>
 	            <addClasspath>true</addClasspath>
 	            <classpathPrefix>lib/</classpathPrefix>
-	            <mainClass>com.mt.sample.siva</mainClass>
+	            <mainClass>com.mt.sample.Helloworld</mainClass>
 	          </manifest>
 	        </archive>
 	      </configuration>
